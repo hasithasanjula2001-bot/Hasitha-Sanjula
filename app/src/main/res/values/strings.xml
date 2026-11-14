@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Meridian LC</string>
+    <string name="brand_subtitle">TRADE COMPLIANCE &amp; LC VERIFICATION</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_verify">Verify LC</string>
+    <string name="nav_compliance">Rules &amp; Limits</string>
+    <string name="nav_vault">Vault</string>
+    <string name="dashboard_title">Executive Risk Overview</string>
+    <string name="dashboard_cta_verify">Verify New LC</string>
+    <string name="verify_title">Secure Document Verification</string>
+    <string name="verify_subtitle">Local SHA-256 sealing + Gemini AI compliance inspection</string>
+    <string name="action_scan_camera">Scan Document</string>
+    <string name="action_pick_image">Select Image</string>
+    <string name="action_upload_pdf">Upload PDF / Doc</string>
+    <string name="action_save_vault">Save to Local Vault</string>
+    <string name="action_share_summary">Share Audit Summary</string>
+    <string name="compliance_title">Sanctions, Rules &amp; Limits</string>
+    <string name="vault_title">Local Audit Vault</string>
+    <string name="camera_permission_rationale">Camera access is needed to photograph physical Letters of Credit or Bills of Lading for local verification.</string>
+    <string name="offline_privacy_badge">ON-DEVICE VAULT · ZERO CLOUD SYNC</string>
+    <string name="error_file_too_large">Document exceeds the 20 MB inline verification limit.</string>
+    <string name="error_read_document">Unable to read the selected document from device storage.</string>
+</resources>

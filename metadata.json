@@ -1,0 +1,6 @@
+{
+  "name": "Meridian LC",
+  "description": "Executive international trade compliance app for Letter of Credit verification, sanctions and dual-use screening, UCP 600 rules, and exposure limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
